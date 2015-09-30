@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{6144BA61-B2BE-408F-9A97-310FE347D74E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizUTwithJasmin", "QuizUTwithJasmin\QuizUTwithJasmin.csproj", "{ED33CAA5-D639-4B2A-ADD8-AAE8BA950C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6144BA61-B2BE-408F-9A97-310FE347D74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6144BA61-B2BE-408F-9A97-310FE347D74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6144BA61-B2BE-408F-9A97-310FE347D74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6144BA61-B2BE-408F-9A97-310FE347D74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED33CAA5-D639-4B2A-ADD8-AAE8BA950C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED33CAA5-D639-4B2A-ADD8-AAE8BA950C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED33CAA5-D639-4B2A-ADD8-AAE8BA950C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED33CAA5-D639-4B2A-ADD8-AAE8BA950C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
